@@ -1,2 +1,1 @@
-elestio/strapi-production:latest
-elestio/postgres:latest
+oven/bun
