@@ -1,2 +1,12 @@
 oven/bun
 node:14
+supabase/studio:20250113-83c9420
+kong:2.8.1
+postgrest/postgrest:v12.2.0
+supabase/storage-api:v1.14.5
+darthsim/imgproxy:v3.8.0
+supabase/postgres-meta:v0.84.2
+supabase/logflare:1.4.0
+supabase/postgres:15.8.1.020
+timberio/vector:0.28.1-alpine
+supabase/supavisor:1.1.56
