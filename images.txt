@@ -11,3 +11,4 @@ supabase/postgres:15.8.1.020
 timberio/vector:0.28.1-alpine
 supabase/supavisor:1.1.56
 supabase/gotrue:v2.167.0
+postgrest/postgrest
